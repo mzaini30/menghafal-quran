@@ -1,2 +1,3 @@
-- [Memahami Quran](memahami-quran.md)
-- [Mengapa menghafal Quran?](mengapa-menghafal-quran.md)
+- Tentang menghafal Quran
+  - [Memahami Quran](memahami-quran.md)
+  - [Mengapa menghafal Quran?](mengapa-menghafal-quran.md)
