@@ -1,10 +1,14 @@
 {
  "plugins": [
+  "ga",
   "disqus",
   "meta",
   "sitemap"
  ],
  "pluginsConfig": {
+  "ga": {
+   "token": "UA-60792127-5"
+  },
   "disqus": {
    "shortName": "menghafalquran"
   },
