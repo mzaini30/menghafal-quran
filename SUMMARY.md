@@ -5,5 +5,7 @@
   - Talqin dengan guru tahfidz
   - Kondusif di pondok pesantren
 - Keunikan setiap ayat Quran
+  - Satu ayat, satu halaman
+  - Keunikan dalam Al-Kahfi
 - Setelah menyelesaikan 30 juz
 - Sikap penghafal Quran
