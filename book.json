@@ -12,7 +12,17 @@
   "disqus": {
    "shortName": "menghafalquran"
   },
-  "meta": {},
+  "meta": {
+   "data": [
+    {
+     "name": "og:image",
+     "content": "https://menghafalquran.js.org/aset/cover.png"
+    }, {
+     "name": "twitter:image",
+     "content": "https://menghafalquran.js.org/aset/cover.png"
+    }
+   ]
+  },
   "sitemap": {
    "hostname": "https://menghafalquran.js.org/"
   }
