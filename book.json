@@ -1,0 +1,19 @@
+{
+ "plugins": [
+  "disqus",
+  "meta",
+  "sitemap"
+ ],
+ "pluginsConfig": {
+  "disqus": {
+   "shortName": "menghafalquran"
+  },
+  "meta": {},
+  "sitemap": {
+   "hostname": "https://menghafalquran.js.org/"
+  }
+ },
+ "lunr": {
+  "maxIndexSize": 1000000000
+ }
+}
