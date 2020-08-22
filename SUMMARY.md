@@ -2,6 +2,8 @@
   - [Memahami Quran](memahami-quran.md)
   - [Mengapa menghafal Quran?](mengapa-menghafal-quran.md)
 - Teknis menghafal Quran 
+  - Talqin dengan guru tahfidz
+  - Kondusif di pondok pesantren
 - Keunikan setiap ayat Quran
 - Setelah menyelesaikan 30 juz
 - Sikap penghafal Quran
