@@ -1,3 +1,7 @@
 - Tentang menghafal Quran
   - [Memahami Quran](memahami-quran.md)
   - [Mengapa menghafal Quran?](mengapa-menghafal-quran.md)
+- Teknis menghafal Quran 
+- Keunikan setiap ayat Quran
+- Setelah menyelesaikan 30 juz
+- Sikap penghafal Quran
