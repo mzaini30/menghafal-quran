@@ -10,6 +10,7 @@
 - Teknis menghafal Quran 
   - Talqin dengan guru tahfidz
   - Kondusif di pondok pesantren
+  - Mutabaah hafalan
 - Teknis murajaah hafalan
 - Keunikan setiap ayat Quran
   - Satu ayat, satu halaman
