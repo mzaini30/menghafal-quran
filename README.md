@@ -6,9 +6,15 @@ Buku menghafal Quran, sesuai dengan judulnya, aku akan berusaha menyajikan berba
 
 ## Download versi ebook 
 
+- [Versi PDF](https://github.com/mzaini30/menghafal-quran/raw/ebooks/menghafal-quran.pdf)
 - [Versi EPUB](https://github.com/mzaini30/menghafal-quran/raw/ebooks/menghafal-quran.epub)
 - [Versi MOBI](https://github.com/mzaini30/menghafal-quran/raw/ebooks/menghafal-quran.mobi)
-- [Versi PDF](https://github.com/mzaini30/menghafal-quran/raw/ebooks/menghafal-quran.pdf)
+
+Untuk versi PDF, memiliki kelemahan yaitu tidak dapat menampilkan diagram.
+
+Versi ebook yang direkomendasikan adalah yang versi EPUB dan dibuka di Google Play Book.
+
+![Dibuka di Google Play Book](https://i.ibb.co/56TKPsm/Screenshot-2020-08-23-13-40-13-89-6d99b7fd78add4225b5791bcef7c616b.png)
 
 ## Kamu bisa berkontribusi tentang isi buku ini
 
