@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - master
-
+jobs:
   job_deploy_ebooks:
     name: 'deploy ebooks'
     runs-on: ubuntu-latest
