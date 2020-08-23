@@ -1,6 +1,8 @@
 - Tentang menghafal Quran
   - [Memahami Quran](memahami-quran.md)
   - [Mengapa menghafal Quran?](mengapa-menghafal-quran.md)
+- Ketika belum pernah menghafal 
+  - Perbanyak qiraah
 - Teknis menghafal Quran 
   - Talqin dengan guru tahfidz
   - Kondusif di pondok pesantren
