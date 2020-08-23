@@ -15,6 +15,11 @@
   - Satu ayat, satu halaman
   - Keunikan dalam Al-Kahfi
 - Setelah menyelesaikan 30 juz
-- Sikap penghafal Quran
+- [Sikap penghafal Quran](sikap-penghafal-quran.md)
+- Kegalauan penghafal Quran 
+  - Menyeimbangkan hafalan dan sekolah
+  - Antara hafalan baru dan murajaah
+  - Gampang lupa
+  - Males menghafal
 - Penutup
 - [Tentang penulis](tentang-penulis.md)
