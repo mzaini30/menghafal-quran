@@ -6,4 +6,15 @@ Buku menghafal Quran, sesuai dengan judulnya, aku akan berusaha menyajikan berba
 
 ## Kamu bisa berkontribusi tentang isi buku ini
 
-Buku ini adalah bentuknya open source dan bisa kamu beri kontribusi di [halaman Githubnya](https://github.com/mzaini30/menghafal-quran). Jadi, kamu bisa mengeditnya jika di tulisan ini terdapat kesalahan. Atau, kamu bisa memberikan komentar di kolom komentar yang sudah disediakan di setiap halamannya di bagian bawah. Curahan pendapat dari kamu semua sangat aku tunggu demi berkembangnya pengetahuan tentang menghafal Quran.
+Buku ini adalah bentuknya open source dan bisa kamu beri kontribusi di [halaman Githubnya](https://github.com/mzaini30/menghafal-quran). Jadi, kamu bisa mengeditnya jika di tulisan ini terdapat kesalahan. Atau, kamu bisa memberikan komentar di kolom komentar yang sudah disediakan di setiap halamannya di bagian bawah. Atau bisa juga dengan mengirimkan ke email <muhzaini30@gmail.com>.
+
+![Diagram](https://kroki.io/mermaid/svg/eNpLL0osyFDwCeJSSIz2zs8rKcpMKi3OjFXQ1bVTSIp2zyzJKE2KBUqCBZKjXTKLC0uL4QIp0a65iZk5sQAdihXx)
+
+<div style="display: none">
+graph LR
+ a[Kontribusi] --> b[Github]
+ a --> c[Disqus]
+ a --> d[Email]
+</div>
+
+Curahan pendapat dari kamu semua sangat aku tunggu demi berkembangnya pengetahuan tentang menghafal Quran.
