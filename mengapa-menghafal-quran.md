@@ -2,4 +2,4 @@
 
 Mengapa menghafal Quran? Apakah hafalan Quran hanya untuk mengimami shalat? Kalau begitu, bukankah cukup menghafalkan tiga Qul? Terus, perempuan kan berarti nggak perlu menghafal Quran? Lalu, untuk apa dong tujuan kita menghafal Quran?
 
-Sebagaimana yang sudah kita tau bahwasanya Al-Quran adalah kalam Allah. Maka, setiap yang Allah firmankan; baik itu berupa perintah, larangan, ajakan, anjuran, nasehat, dan sebagainya adalah kebaikan bagi ciptaannya.
+Sebagaimana yang sudah kita tau bahwasanya Al-Quran adalah kalam Allah. Maka, setiap yang Allah firmankan; baik itu berupa perintah, larangan, ajakan, anjuran, nasehat, dan sebagainya adalah kebaikan bagi ciptaannya. Maka, tentu saja ketika kita mengetahui bahwa itu adalah _sebuah kebaikan_, kita akan berusaha untuk membacanya, memahaminya, mempelajarinya, mengamalkan isinya, bahkan menghafalnya. Mengapa kita melakukan itu semua? Tentu karena ini adalah kalam Allah! Suatu entitas yang hanya ada satu-satunya di muka bumi! Bagaimana kalau itu lenyap? Bagaimana kalau tidak tersisa lagi kalam Allah di muka bumi ini? Sungguh sangat menyesal bagi kita sebagai makhluk kalau itu terjadi.
