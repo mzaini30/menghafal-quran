@@ -3,6 +3,9 @@
   - [Mengapa menghafal Quran?](mengapa-menghafal-quran.md)
 - Ketika belum pernah menghafal 
   - Perbanyak qiraah
+- Persiapan
+  - Memilih mushaf
+  - Belajar tahsin
 - Teknis menghafal Quran 
   - Talqin dengan guru tahfidz
   - Kondusif di pondok pesantren
@@ -11,3 +14,5 @@
   - Keunikan dalam Al-Kahfi
 - Setelah menyelesaikan 30 juz
 - Sikap penghafal Quran
+- Penutup
+- [Tentang penulis](tentang-penulis.md)
