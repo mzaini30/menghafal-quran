@@ -14,8 +14,6 @@ Untuk versi PDF, memiliki kelemahan yaitu tidak dapat menampilkan diagram.
 
 Versi ebook yang direkomendasikan adalah yang versi EPUB dan dibuka di Google Play Book.
 
-![Dibuka di Google Play Book](https://i.ibb.co/56TKPsm/Screenshot-2020-08-23-13-40-13-89-6d99b7fd78add4225b5791bcef7c616b.png)
-
 ## Kamu bisa berkontribusi tentang isi buku ini
 
 Buku ini adalah bentuknya open source dan bisa kamu beri kontribusi di [halaman Githubnya](https://github.com/mzaini30/menghafal-quran). Jadi, kamu bisa mengeditnya jika di tulisan ini terdapat kesalahan. Atau, kamu bisa memberikan komentar di kolom komentar yang sudah disediakan di setiap halamannya di bagian bawah. Atau bisa juga dengan mengirimkan ke email <muhzaini30@gmail.com>.
