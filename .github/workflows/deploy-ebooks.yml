@@ -1,0 +1,36 @@
+name: 'deploy ebooks'
+
+on:
+  push:
+    branches:
+      - master
+
+  job_deploy_ebooks:
+    name: 'deploy ebooks'
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - uses: actions/setup-node@v1
+      with:
+        node-version: '10.x'
+    - name: 'Installing gitbook cli'
+      run: npm install -g gitbook-cli
+    - name: 'Installing svgexport'
+      run: npm install -g svgexport
+    - name: 'Installing calibre'
+      run: sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.sh | sudo sh /dev/stdin
+    - name: 'Preparing for ebooks generations'
+      run: |
+        mkdir _book
+        gitbook install
+    - name: 'Generating ebook in pdf'
+      run: gitbook pdf ./ ./_book/menghafal-quran.pdf
+    - name: 'Generating ebook in epub'
+      run: gitbook epub ./ ./_book/menghafal-quran.epub
+    - name: 'Generating ebook in mobi'
+      run: gitbook mobi ./ ./_book/menghafal-quran.mobi
+    - uses: peaceiris/actions-gh-pages@v2.5.0
+      env:
+        ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        PUBLISH_BRANCH: ebooks
+        PUBLISH_DIR: ./_book
