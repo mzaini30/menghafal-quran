@@ -16,4 +16,12 @@ Juziyah ini hukumnya **wajib**. Jadi, misalnya sudah menyelesaikan setoran hafal
 
 ## Aku sudah banyak murajaah, tapi kok tetap lupa?
 
-Lupa dalam menghafal Quran adalah hal yang biasa. Namun, walaupun itu adalah hal yang biasa, kita jangan nuruti lupa itu sehingga kita nggak mau memurajaahnya. Jadi, kuncinya tetap satu, yaitu murajaah. Ketika lupa, murajaahlah. Begitu seterusnya walaupun setelah dimurajaah berkali-kali, tetap saja lupa, teruslah murajaah. Apalagi kan, dengan semakin banyak kita membaca Quran, semakin banyak juga pahala yang kita dapat. 
+Lupa dalam menghafal Quran adalah hal yang biasa. Namun, walaupun itu adalah hal yang biasa, kita jangan nuruti lupa itu sehingga kita nggak mau memurajaahnya. Jadi, kuncinya tetap satu, yaitu murajaah. Ketika lupa, murajaahlah. Begitu seterusnya walaupun setelah dimurajaah berkali-kali, tetap saja lupa, teruslah murajaah. Apalagi kan, dengan semakin banyak kita membaca Quran, semakin banyak juga pahala yang kita dapat.
+
+<div style="display: none;"> 
+graph LR
+ a[Lupa] --> b[Murajaah]
+ b --> a
+</div>
+
+![Diagram dari lupa dan murajaah](https://kroki.io/mermaid/svg/eNpLL0osyFDwCeJSSIz2KS1IjFXQ1bVTSIr2LS1KzEpMzIjlUkgCCyUCABsTDIY=)
