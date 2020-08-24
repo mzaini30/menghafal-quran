@@ -20,7 +20,7 @@
 - Kegalauan penghafal Quran 
   - Menyeimbangkan hafalan dan sekolah
   - Antara hafalan baru dan murajaah
-  - Gampang lupa
+  - [Gampang lupa](gampang-lupa.md)
   - Males menghafal
 - [Penutup](penutup.md)
 - [Tentang penulis](tentang-penulis.md)
