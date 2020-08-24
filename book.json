@@ -3,7 +3,8 @@
   "ga",
   "disqus",
   "meta",
-  "sitemap"
+  "sitemap",
+  "auto-scroll-table"
  ],
  "pluginsConfig": {
   "ga": {
