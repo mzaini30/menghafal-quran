@@ -22,5 +22,5 @@
   - Antara hafalan baru dan murajaah
   - Gampang lupa
   - Males menghafal
-- Penutup
+- [Penutup](penutup.md)
 - [Tentang penulis](tentang-penulis.md)
