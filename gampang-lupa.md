@@ -20,8 +20,8 @@ Lupa dalam menghafal Quran adalah hal yang biasa. Namun, walaupun itu adalah hal
 
 <div style="display: none;"> 
 graph LR
- a[Lupa] --> b[Murajaah]
+ a[Lupa] --> b[Murajaah] --> c[Pahala]
  b --> a
 </div>
 
-![Diagram dari lupa dan murajaah](https://kroki.io/mermaid/svg/eNpLL0osyFDwCeJSSIz2KS1IjFXQ1bVTSIr2LS1KzEpMzIjlUkgCCyUCABsTDIY=)
+![Diagram dari lupa dan murajaah](https://kroki.io/mermaid/svg/eNpLL0osyFDwCeJSSIz2KS1IjFXQ1bVTSIr2LS1KzEpMzIDwk6MDEjMScxJjuRSSwAKJAPJyEMA=)
