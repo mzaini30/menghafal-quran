@@ -16,9 +16,7 @@ Versi ebook yang direkomendasikan adalah yang versi EPUB dan dibuka di Google Pl
 
 Buku ini adalah bentuknya open source dan bisa kamu beri kontribusi di [halaman Githubnya](https://github.com/mzaini30/menghafal-quran). Jadi, kamu bisa mengeditnya jika di tulisan ini terdapat kesalahan. Atau, kamu bisa memberikan komentar di kolom komentar yang sudah disediakan di setiap halamannya di bagian bawah. Atau bisa juga dengan mengirimkan ke email <muhzaini30@gmail.com>.
 
-![Diagram](https://kroki.io/mermaid/svg/eNotzLEKgzAQgOHdpzjcU4Xu0qHioJNryHCxbXLgRU28pU-vBtefj99FXD0MYwGo-yXskawkMqAUONq92Me0cMV_pEDPuuJvcB5_OKtNIoaTNWB1l6U5HzlM-k1pk3QHKFn8PXg5RpqvZ5npR7dXMAf-VywY)
-
-<div style="display: none">
+<div class="mermaid">
 graph LR
  a[Kontribusi] -- github.com/mzaini30/menghafal-quran --> b[Github]
  a --> c[Disqus]

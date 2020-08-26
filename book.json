@@ -5,9 +5,18 @@
   "meta",
   "sitemap",
   "auto-scroll-table",
-  "scripts"
+  "add-js-css"
  ],
  "pluginsConfig": {
+  "add-js-css": {
+    "css": [
+      "./vendor/svg.css"
+    ],
+    "js": [
+      "./vendor/mermaid.min.js",
+      "./vendor/run-mermaid.js"
+    ]
+  },
   "ga": {
    "token": "UA-60792127-5"
   },
