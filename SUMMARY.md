@@ -11,6 +11,7 @@
   - [Talqin dengan guru tahfidz](talqin-dengan-guru-tahfidz.md)
   - [Kondusif di pondok pesantren](kondusif-di-pondok-pesantren.md)
   - [Mutabaah hafalan](mutabaah-hafalan.md)
+  - [Wajibnya juziyah](wajibnya-juziyah.md)
 - [Teknis murajaah hafalan](teknis-murajaah-hafalan.md)
 - [Keunikan setiap ayat Quran](keunikan-setiap-ayat-quran.md)
   - [Satu ayat, satu halaman](satu-ayat-satu-halaman.md)
