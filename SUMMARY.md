@@ -1,26 +1,26 @@
-- Tentang menghafal Quran
+- [Tentang menghafal Quran](tentang-menghafal-quran.md)
   - [Memahami Quran](memahami-quran.md)
   - [Mengapa menghafal Quran?](mengapa-menghafal-quran.md)
-  - Apakah menghafal itu susah?
-- Ketika belum pernah menghafal 
-  - Perbanyak qiraah
-- Persiapan
-  - Memilih mushaf
-  - Belajar tahsin
-- Teknis menghafal Quran 
-  - Talqin dengan guru tahfidz
-  - Kondusif di pondok pesantren
+  - [Apakah menghafal itu susah?](apakah-menghafal-itu-susah.md)
+- [Ketika belum pernah menghafal](ketika-belum-pernah-menghafal.md)
+  - [Perbanyak qiraah](perbanyak-qiraah.md)
+- [Persiapan](persiapan.md)
+  - [Memilih mushaf](memilih-mushaf.md)
+  - [Belajar tahsin](belajar-tahsin.md)
+- [Teknis menghafal Quran](teknis-menghafal-quran.md)
+  - [Talqin dengan guru tahfidz](talqin-dengan-guru-tahfidz.md)
+  - [Kondusif di pondok pesantren](kondusif-di-pondok-pesantren.md)
   - [Mutabaah hafalan](mutabaah-hafalan.md)
-- Teknis murajaah hafalan
-- Keunikan setiap ayat Quran
-  - Satu ayat, satu halaman
-  - Keunikan dalam Al-Kahfi
-- Setelah menyelesaikan 30 juz
+- [Teknis murajaah hafalan](teknis-murajaah-hafalan.md)
+- [Keunikan setiap ayat Quran](keunikan-setiap-ayat-quran.md)
+  - [Satu ayat, satu halaman](satu-ayat-satu-halaman.md)
+  - [Keunikan dalam Al-Kahfi](keunikan-dalam-al-kahfi.md)
+- [Setelah menyelesaikan 30 juz](setelah-menyelesaikan-30-juz.md)
 - [Sikap penghafal Quran](sikap-penghafal-quran.md)
-- Kegalauan penghafal Quran 
-  - Menyeimbangkan hafalan dan sekolah
-  - Antara hafalan baru dan murajaah
+- [Kegalauan penghafal Quran](kegalauan-penghafal-quran.md)
+  - [Menyeimbangkan hafalan dan sekolah](menyeimbangkan-hafalan-dan-sekolah.md)
+  - [Antara hafalan baru dan murajaah](antara-hafalan-baru-dan-murajaah.md)
   - [Gampang lupa](gampang-lupa.md)
-  - Males menghafal
+  - [Males menghafal](males-menghafal.md)
 - [Penutup](penutup.md)
 - [Tentang penulis](tentang-penulis.md)
