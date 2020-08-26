@@ -14,7 +14,8 @@
     ],
     "js": [
       "./vendor/mermaid.min.js",
-      "./vendor/run-mermaid.js"
+      "./vendor/run-mermaid.js",
+      "./vendor/auto-scroll-table.js"
     ]
   },
   "ga": {
