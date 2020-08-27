@@ -4,12 +4,12 @@
 
 <div class="mermaid">
 graph LR
- a[Zen] --> b[Keluarga] & c[Pekerjaan]
- b -- istri --> d[Tri Handayani]
- b -- anak --> e[Maryam Syafa Salsabila]
- c -- guru tahfidz --> f[Madrasah Baitul Izzah]
- c -- layouter --> g[Caraka Publishing]
- c -- mekanik --> h[Toko sepeda Sinar Jaya]
- a --> i[Komunitas]
- i --> j[One Day One Post] & k[Nulis Aja Community] & l[Jaring Penulis Kaltim] & m[Shigure ID] & n[Majelis Al-Fatih] & o[Sanggar baca Caraka]
+a[Zen] --> b[Keluarga] & c[Pekerjaan]
+b -- istri --> d[Tri Handayani]
+b -- anak --> e[Maryam Syafa Salsabila]
+c -- guru tahfidz --> f[Madrasah Baitul Izzah]
+c -- layouter --> g[Caraka Publishing]
+c -- mekanik --> h[Toko sepeda Sinar Jaya]
+a --> i[Komunitas]
+i --> j[One Day One Post] & k[Nulis Aja Community] & l[Jaring Penulis Kaltim] & m[Shigure ID] & n[Majelis Al-Fatih] & o[Sanggar baca Caraka]
 </div>
