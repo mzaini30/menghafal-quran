@@ -16,8 +16,5 @@ Sebenarnya, hal ini adalah kunci dari segala hal yang kita lakukan. Ketika kita 
 
 <div class="mermaid">
 graph LR
-	subgraph Berhasil
-		a[Target] --> b[Aksi]
-		b --> a
-	end
+a[Target] --> b[Aksi] --> c[Berhasil]
 </div>
