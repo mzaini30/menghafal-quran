@@ -8,7 +8,7 @@ Buku menghafal Quran, sesuai dengan judulnya, aku akan berusaha menyajikan berba
 - [Versi EPUB](https://github.com/mzaini30/menghafal-quran/raw/ebooks/menghafal-quran.epub)
 - [Versi MOBI](https://github.com/mzaini30/menghafal-quran/raw/ebooks/menghafal-quran.mobi)
 
-Kekurangan dari versi ebook ini adalah nggak bisa menampilkan diagram.
+Kekurangan dari versi ebook ini adalah **nggak bisa menampilkan diagram**.
 
 ## Kamu bisa berkontribusi tentang isi buku ini
 
