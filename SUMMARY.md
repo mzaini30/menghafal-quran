@@ -17,6 +17,7 @@
   - [Satu ayat, satu halaman](satu-ayat-satu-halaman.md)
   - [Keunikan dalam Al-Kahfi](keunikan-dalam-al-kahfi.md)
 - [Setelah menyelesaikan 30 juz](setelah-menyelesaikan-30-juz.md)
+- [Cara menguatkan hafalan](cara-menguatkan-hafalan.md)
 - [Sikap penghafal Quran](sikap-penghafal-quran.md)
 - [Kegalauan penghafal Quran](kegalauan-penghafal-quran.md)
   - [Menyeimbangkan hafalan dan sekolah](menyeimbangkan-hafalan-dan-sekolah.md)
