@@ -11,5 +11,5 @@ graph LR
  c -- layouter --> g[Caraka Publishing]
  c -- mekanik --> h[Toko sepeda Sinar Jaya]
  a --> i[Komunitas]
- i --> j[One Day One Post] & k[Nulis Aja Community] & l[Jaring Penulis Kaltim] & m[Shigure ID] & n[Majelis Al-Fatih]
+ i --> j[One Day One Post] & k[Nulis Aja Community] & l[Jaring Penulis Kaltim] & m[Shigure ID] & n[Majelis Al-Fatih] & o[Sanggar baca Caraka]
 </div>
