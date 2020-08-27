@@ -8,6 +8,7 @@
   - [Memilih mushaf](memilih-mushaf.md)
   - [Belajar tahsin](belajar-tahsin.md)
 - [Teknis menghafal Quran](teknis-menghafal-quran.md)
+  - [Cara menghafal Quran](cara-menghafal-quran.md)
   - [Talqin dengan guru tahfidz](talqin-dengan-guru-tahfidz.md)
   - [Kondusif di pondok pesantren](kondusif-di-pondok-pesantren.md)
   - [Mutabaah hafalan](mutabaah-hafalan.md)

@@ -16,9 +16,9 @@ Buku ini adalah bentuknya open source dan bisa kamu beri kontribusi di [halaman 
 
 <div class="mermaid">
 graph LR
- a[Kontribusi] -- github.com/mzaini30/menghafal-quran --> b[Github]
- a --> c[Disqus]
- a -- "muhzaini30@gmail.com" --> d[Email]
+a[Kontribusi] -- github.com/mzaini30/menghafal-quran --> b[Github]
+a --> c[Disqus]
+a -- "muhzaini30@gmail.com" --> d[Email]
 </div>
 
 Curahan pendapat dari kamu semua sangat aku tunggu demi berkembangnya pengetahuan tentang menghafal Quran.
