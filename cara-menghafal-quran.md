@@ -56,4 +56,6 @@ Kalau dengan metode ini, kamu menyalin dulu satu halaman Al-Quran, baru setelah 
 graph LR
 a[Menghafal] --> b[Baca banyak] & c[Pahami arti] & d[Langsung] & e[Baca sehalaman] & f[Tidur] & g[Menulis]
 g --> h[Jarang]
+f --> i[Hindari]
+e --> c & b
 </div>
