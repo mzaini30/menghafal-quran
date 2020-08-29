@@ -7,6 +7,9 @@
   "auto-scroll-table",
   "add-js-css"
  ],
+ "styles": {
+  "ebook": "vendor/svg-ebook.css"
+ },
  "pluginsConfig": {
   "add-js-css": {
     "css": [
